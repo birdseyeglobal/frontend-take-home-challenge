@@ -6,6 +6,8 @@ Build a **ReactJS** (or **TypeScript React**) application that implements a play
 
 > **Note:** It’s fine if you can’t complete every feature—focus on the essentials first, and document any trade‑offs or unfinished work.
 
+It's ok to use AI just make sure that you still show off your engineering capabilities (no slop, all generated code should be thoroughly reviewed and conform to your design spec)
+
 ---
 
 ## Requirements
